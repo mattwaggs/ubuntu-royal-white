@@ -1,3 +1,5 @@
+> I did not make this theme. I don't remember where I found it. I just modified it to my preferences.
+
 Royal is a modern flat theme with a combination of light and dark elements.
 
 Based on:
